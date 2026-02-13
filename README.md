@@ -38,7 +38,7 @@ This README explains **what was tested, how it was tested, what issues were foun
 
 ---
 
-## 🧪 Testing Scope (What Was Tested)
+## Testing Scope (What Was Tested)
 
 The following functional areas were tested thoroughly:
 
