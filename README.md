@@ -44,7 +44,7 @@ The following functional areas were tested thoroughly:
 
 ### 1️⃣ Homepage & Core Navigation
 - Page load behavior
-- UI consistency
+- UI consistency section
 - Responsiveness across devices (desktop, tablet)
 - Navigation redirections
 
